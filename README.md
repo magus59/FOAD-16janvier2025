@@ -1,1 +1,3 @@
-# FOAD-16janvier2025
+# FOAD-17janvier2025
+
+Pour lancer l'api : npx nodemon server.js
